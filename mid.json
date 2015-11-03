@@ -1,0 +1,19 @@
+
+Warning: opendir(batch/.DS_Store): failed to open dir: Not a directory in /Library/WebServer/Documents/file-upload/batch.php on line 7
+
+Warning: imagecopymerge(): 10 is not a valid Image resource in /Library/WebServer/Documents/file-upload/batch.php on line 143
+
+Warning: imagecopymerge(): 21 is not a valid Image resource in /Library/WebServer/Documents/file-upload/batch.php on line 143
+
+Warning: imagecopymerge(): 32 is not a valid Image resource in /Library/WebServer/Documents/file-upload/batch.php on line 143
+
+Warning: imagecopymerge(): 43 is not a valid Image resource in /Library/WebServer/Documents/file-upload/batch.php on line 143
+
+Warning: imagecopymerge(): 54 is not a valid Image resource in /Library/WebServer/Documents/file-upload/batch.php on line 143
+
+Warning: imagecopymerge(): 65 is not a valid Image resource in /Library/WebServer/Documents/file-upload/batch.php on line 143
+
+Warning: imagecopymerge(): 76 is not a valid Image resource in /Library/WebServer/Documents/file-upload/batch.php on line 143
+
+Warning: imagecopymerge(): 87 is not a valid Image resource in /Library/WebServer/Documents/file-upload/batch.php on line 143
+{"'mid'":[{"filename":"BillyWong-h.jpg","status":"active"},{"filename":"EricWong-h.jpg","status":"active"},{"filename":"GavinChui-h.jpg","status":"active"},{"filename":"HennixTang-h.jpg","status":"active"},{"filename":"JackAu-h.jpg","status":"active"},{"filename":"JoelChan-h.jpg","status":"active"},{"filename":"MikeTing-h.jpg","status":"active"},{"filename":"NatalieChan-h.jpg","status":"active"}]}

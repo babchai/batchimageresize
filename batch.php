@@ -43,8 +43,8 @@
         //echo $newname;
         //$newname = $_POST['filename'];
         //$category = $_POST['category'];
-        $max_size = 800; //max image size in Pixels
-        $max_size_thumb = 500;
+        $max_size = 900; //max image size in Pixels
+        $max_size_thumb = 600;
         $destination_folder = $category;
         //echo $destination_folder;
         $watermark_png_file = 'watermark.png'; //path to watermark image
